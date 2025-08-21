@@ -36,9 +36,6 @@ Using **Python, Pandas, NumPy, Matplotlib, and Seaborn**, the analysis explores 
    cd BLACK_FRIDAY_ANALYSIS
 Open Jupyter Notebook:
 
-bash
-Copy
-Edit
 jupyter notebook
 Run the analysis notebook to reproduce results.
 
