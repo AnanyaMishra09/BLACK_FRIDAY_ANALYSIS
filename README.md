@@ -43,8 +43,3 @@ Run the analysis notebook to reproduce results.
 Dataset source: Black Friday sales dataset (contains ~550,000 records of customer demographics and purchase history).
 
 Includes features like User_ID, Gender, Age, Occupation, City_Category, Stay_In_Current_City_Years, Product_ID, and Purchase.
-
-
-
-
-Ask ChatGPT
